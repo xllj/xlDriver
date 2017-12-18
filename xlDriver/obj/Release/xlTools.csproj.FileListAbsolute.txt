@@ -1,0 +1,5 @@
+G:\项目资料\新CH110项目\公共文件\xlTools\xlTools_v3.3\xlTools\bin\Release\xlTools.dll
+G:\项目资料\新CH110项目\公共文件\xlTools\xlTools_v3.3\xlTools\bin\Release\xlTools.pdb
+G:\项目资料\新CH110项目\公共文件\xlTools\xlTools_v3.3\xlTools\obj\Release\ResolveAssemblyReference.cache
+G:\项目资料\新CH110项目\公共文件\xlTools\xlTools_v3.3\xlTools\obj\Release\xlTools.dll
+G:\项目资料\新CH110项目\公共文件\xlTools\xlTools_v3.3\xlTools\obj\Release\xlTools.pdb

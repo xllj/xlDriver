@@ -1,0 +1,10 @@
+E:\工作空间\实验室项目\BMTS-3A项目方案\FDHS-2\程序\公共文件\PCI1762测试软件\PCI1762测试软件\bin\Release\PCI1762测试软件.exe
+E:\工作空间\实验室项目\BMTS-3A项目方案\FDHS-2\程序\公共文件\PCI1762测试软件\PCI1762测试软件\bin\Release\PCI1762测试软件.pdb
+E:\工作空间\实验室项目\BMTS-3A项目方案\FDHS-2\程序\公共文件\PCI1762测试软件\PCI1762测试软件\bin\Release\xlDriver.dll
+E:\工作空间\实验室项目\BMTS-3A项目方案\FDHS-2\程序\公共文件\PCI1762测试软件\PCI1762测试软件\bin\Release\xlDriver.pdb
+E:\工作空间\实验室项目\BMTS-3A项目方案\FDHS-2\程序\公共文件\PCI1762测试软件\PCI1762测试软件\obj\x86\Release\PCI1762测试软件.csprojResolveAssemblyReference.cache
+E:\工作空间\实验室项目\BMTS-3A项目方案\FDHS-2\程序\公共文件\PCI1762测试软件\PCI1762测试软件\obj\x86\Release\PCI1762测试软件.Form1.resources
+E:\工作空间\实验室项目\BMTS-3A项目方案\FDHS-2\程序\公共文件\PCI1762测试软件\PCI1762测试软件\obj\x86\Release\PCI1762测试软件.Properties.Resources.resources
+E:\工作空间\实验室项目\BMTS-3A项目方案\FDHS-2\程序\公共文件\PCI1762测试软件\PCI1762测试软件\obj\x86\Release\PCI1762测试软件.csproj.GenerateResource.Cache
+E:\工作空间\实验室项目\BMTS-3A项目方案\FDHS-2\程序\公共文件\PCI1762测试软件\PCI1762测试软件\obj\x86\Release\PCI1762测试软件.exe
+E:\工作空间\实验室项目\BMTS-3A项目方案\FDHS-2\程序\公共文件\PCI1762测试软件\PCI1762测试软件\obj\x86\Release\PCI1762测试软件.pdb

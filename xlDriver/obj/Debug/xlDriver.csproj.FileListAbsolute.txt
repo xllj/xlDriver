@@ -1,0 +1,25 @@
+C:\Users\XiongLiang\Documents\Visual Studio 2010\Projects\PCI1762测试软件\xlDriver\bin\Debug\xlDriver.dll
+C:\Users\XiongLiang\Documents\Visual Studio 2010\Projects\PCI1762测试软件\xlDriver\bin\Debug\xlDriver.pdb
+C:\Users\XiongLiang\Documents\Visual Studio 2010\Projects\PCI1762测试软件\xlDriver\obj\Debug\xlDriver.csprojResolveAssemblyReference.cache
+C:\Users\XiongLiang\Documents\Visual Studio 2010\Projects\PCI1762测试软件\xlDriver\obj\Debug\xlDriver.dll
+C:\Users\XiongLiang\Documents\Visual Studio 2010\Projects\PCI1762测试软件\xlDriver\obj\Debug\xlDriver.pdb
+E:\工作空间\实验室项目\BMTS-3A项目方案\FDHS-2\程序\PCI1762测试软件\xlDriver\obj\Debug\xlDriver.csprojResolveAssemblyReference.cache
+E:\工作空间\实验室项目\BMTS-3A项目方案\FDHS-2\程序\PCI1762测试软件\xlDriver\obj\Debug\xlDriver.dll
+E:\工作空间\实验室项目\BMTS-3A项目方案\FDHS-2\程序\PCI1762测试软件\xlDriver\obj\Debug\xlDriver.pdb
+E:\工作空间\实验室项目\BMTS-3A项目方案\FDHS-2\程序\PCI1762测试软件\xlDriver\bin\Debug\xlDriver.dll
+E:\工作空间\实验室项目\BMTS-3A项目方案\FDHS-2\程序\PCI1762测试软件\xlDriver\bin\Debug\xlDriver.pdb
+E:\工作空间\实验室项目\BMTS-3A项目方案\FDHS-2\程序\公共文件\xlDriver\xlDriver\bin\Debug\xlDriver.dll
+E:\工作空间\实验室项目\BMTS-3A项目方案\FDHS-2\程序\公共文件\xlDriver\xlDriver\bin\Debug\xlDriver.pdb
+E:\工作空间\实验室项目\BMTS-3A项目方案\FDHS-2\程序\公共文件\xlDriver\xlDriver\obj\Debug\xlDriver.csprojResolveAssemblyReference.cache
+E:\工作空间\实验室项目\BMTS-3A项目方案\FDHS-2\程序\公共文件\xlDriver\xlDriver\obj\Debug\xlDriver.dll
+E:\工作空间\实验室项目\BMTS-3A项目方案\FDHS-2\程序\公共文件\xlDriver\xlDriver\obj\Debug\xlDriver.pdb
+D:\FDHS-2软件\公共文件\xlDriver\xlDriver\bin\Debug\xlDriver.dll
+D:\FDHS-2软件\公共文件\xlDriver\xlDriver\bin\Debug\xlDriver.pdb
+D:\FDHS-2软件\公共文件\xlDriver\xlDriver\obj\Debug\ResolveAssemblyReference.cache
+D:\FDHS-2软件\公共文件\xlDriver\xlDriver\obj\Debug\xlDriver.dll
+D:\FDHS-2软件\公共文件\xlDriver\xlDriver\obj\Debug\xlDriver.pdb
+E:\工作空间\实验室项目\公共文件\xlDriver\xlDriver\bin\Debug\xlDriver.dll
+E:\工作空间\实验室项目\公共文件\xlDriver\xlDriver\bin\Debug\xlDriver.pdb
+E:\工作空间\实验室项目\公共文件\xlDriver\xlDriver\obj\Debug\xlDriver.csprojResolveAssemblyReference.cache
+E:\工作空间\实验室项目\公共文件\xlDriver\xlDriver\obj\Debug\xlDriver.dll
+E:\工作空间\实验室项目\公共文件\xlDriver\xlDriver\obj\Debug\xlDriver.pdb
